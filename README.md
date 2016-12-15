@@ -2,9 +2,6 @@
 
 # Инженерка
 
-[TOC]
---
-
 ## Наши проекты
 * [lazers](https://github.com/ingenerkateam/lazers) - [NeverMine17](https://github.com/NeverMine17) - [![Build status](https://ci.appveyor.com/api/projects/status/ar6q91juwfla7gwk)](https://ci.appveyor.com/project/NeverMine1732586/lazers) 
 
